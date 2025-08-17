@@ -1,0 +1,9 @@
+# Ignore PDF files in the "Clase 1/Apuntes" directory
+Clase 1/Apuntes/\[PT00] Organización de la asignatura.pptx.pdf
+Clase 1/Apuntes/\[PT01] Introducción a C.pptx.pdf
+Clase 1/Apuntes/Lenguaje C - 1.1 - Introducción a C.pdf
+Clase 1/Apuntes/Lenguaje C - 1.2 -Funciones.pdf
+Clase 1/Apuntes/Lenguaje C - Anexo I.pdf
+
+# Ignore ejercicio 5 porque usa punteros 
+Clase 1/Código/ejercicio5.c
